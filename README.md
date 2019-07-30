@@ -1,2 +1,2 @@
 # don-savinero-blog
-to vreate my personal blog
+to create my personal blog
